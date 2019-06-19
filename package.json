@@ -2,7 +2,7 @@
   "name": "phone_app-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pegas13fps.github.io/to_do_app-React/",
+  "homepage": "https://pegas13fps.github.io/phone_app-React/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",

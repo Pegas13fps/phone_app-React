@@ -9,7 +9,7 @@ class Catalog extends React.Component {
             phones: []
         }
     }
-     componentDidMount() {
+    componentDidMount() {
         this.getAll();
     }
 
@@ -20,7 +20,7 @@ class Catalog extends React.Component {
     getAll(){
         PhonesService.getAll(this.props.filter).then(data => {
             this.setState({
-                phones: data
+                phones: data,
             })
         })
     }

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phone_app-React/static/css/main.4ff0b4a7.chunk.css",
+    "main.js": "/phone_app-React/static/js/main.577ccda6.chunk.js",
+    "main.js.map": "/phone_app-React/static/js/main.577ccda6.chunk.js.map",
+    "runtime~main.js": "/phone_app-React/static/js/runtime~main.08c6525c.js",
+    "runtime~main.js.map": "/phone_app-React/static/js/runtime~main.08c6525c.js.map",
+    "static/js/2.fcec4472.chunk.js": "/phone_app-React/static/js/2.fcec4472.chunk.js",
+    "static/js/2.fcec4472.chunk.js.map": "/phone_app-React/static/js/2.fcec4472.chunk.js.map",
+    "index.html": "/phone_app-React/index.html",
+    "precache-manifest.953d3d36f4257695ba74d885a5ca8276.js": "/phone_app-React/precache-manifest.953d3d36f4257695ba74d885a5ca8276.js",
+    "service-worker.js": "/phone_app-React/service-worker.js",
+    "static/css/main.4ff0b4a7.chunk.css.map": "/phone_app-React/static/css/main.4ff0b4a7.chunk.css.map"
+  }
+}

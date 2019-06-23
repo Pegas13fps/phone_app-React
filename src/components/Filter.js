@@ -4,14 +4,14 @@ const Filter = (props) => (
     <div className="filter">
       <p>
         Search :   
-        <input 
+        <input style={{marginLeft: '5px'}}
             data-element="query-field" 
             onChange={props.queryChange}
         ></input>
       </p>
       <p>
         Sort by : 
-        <select 
+        <select style={{marginLeft: '5px'}}
             data-element="order-field"
             onChange = {
                 props.orderChange

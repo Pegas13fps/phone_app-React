@@ -61,7 +61,7 @@ class Viewer extends React.Component {
 			        src={this.state.mainImage}
 			        data-element="big-preview"
 			    ></img>
-				<button 
+				<button style={{marginRight: '5px'}}
 		        	data-element="back-button" 
 			    	onClick={onBackClicked}>
 			        Back
